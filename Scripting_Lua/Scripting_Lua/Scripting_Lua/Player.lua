@@ -1,0 +1,1 @@
+player = { name = "Aurelio", x = 200, y = 650, hp = 685, vel = -1 }

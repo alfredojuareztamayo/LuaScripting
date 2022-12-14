@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  NavePlayer.cpp
+D:\aRTEK\SpaceInvaderSinLua\SpaceInvaderSinLua\NavePlayer.cpp(10,3): warning C4244: 'inicializando': conversión de 'float' a 'unsigned short'; posible pérdida de datos
+  Generando código...
+  SpaceInvaderSinLua.vcxproj -> D:\aRTEK\SpaceInvaderSinLua\Debug\SpaceInvaderSinLua.exe

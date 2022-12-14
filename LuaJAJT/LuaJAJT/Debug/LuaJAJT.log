@@ -1,0 +1,18 @@
+﻿  LuaJAJT.cpp
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaSystem.h(56,11): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaSystem.h(63,9): warning C4244: 'inicializando': conversión de 'lua_Number' a 'int'; posible pérdida de datos
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaJAJT.cpp(44,31): warning C4305: '=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaJAJT.cpp(46,31): warning C4305: '=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+  LuaSystem.cpp
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaSystem.h(56,11): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+D:\aRTEK\LuaJAJT\LuaJAJT\LuaSystem.h(63,9): warning C4244: 'inicializando': conversión de 'lua_Number' a 'int'; posible pérdida de datos
+  Generando código...
+  LuaJAJT.vcxproj -> D:\aRTEK\LuaJAJT\Debug\LuaJAJT.exe

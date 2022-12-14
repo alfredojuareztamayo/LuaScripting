@@ -1,0 +1,1 @@
+player = {Space.lua, level = 10 , x = 200, y = 650}
